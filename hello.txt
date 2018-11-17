@@ -3,3 +3,4 @@ hello
 hello friend!
 hello family
 hello test
+hello local
